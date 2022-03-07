@@ -1,0 +1,3 @@
+C:/Users/IlyaPechersky/CLionProjects/ponchic/cmake-build-debug/CMakeFiles/ponchic.dir
+C:/Users/IlyaPechersky/CLionProjects/ponchic/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/IlyaPechersky/CLionProjects/ponchic/cmake-build-debug/CMakeFiles/rebuild_cache.dir
