@@ -80,19 +80,7 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="C:/Users/IlyaPechersky/CLionProjects/ponchic/Vec2.h">
-			<Option target="ponchic"/>
-		</Unit>
-		<Unit filename="C:/Users/IlyaPechersky/CLionProjects/ponchic/Vec3.h">
-			<Option target="ponchic"/>
-		</Unit>
-		<Unit filename="C:/Users/IlyaPechersky/CLionProjects/ponchic/VecFunctions.h">
-			<Option target="ponchic"/>
-		</Unit>
 		<Unit filename="C:/Users/IlyaPechersky/CLionProjects/ponchic/main.cpp">
-			<Option target="ponchic"/>
-		</Unit>
-		<Unit filename="C:/Users/IlyaPechersky/CLionProjects/ponchic/swap.h">
 			<Option target="ponchic"/>
 		</Unit>
 		<Unit filename="C:/Users/IlyaPechersky/CLionProjects/ponchic/CMakeLists.txt">
