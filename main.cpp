@@ -11,7 +11,7 @@ public:
         tree.push_back(0);
     }
 
-    Heap(vector<int> &array) {
+    Heap(vector<int> &array) { // O(n) building
         tree.push_back(0);
         for (int i = 0; i < array.size(); i++) tree.push_back(array[i]);
         for (int i = (int) array.size(); i > 0; i--) {
